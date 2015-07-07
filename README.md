@@ -1,4 +1,4 @@
-geodata
+for the prime students coming in for a tour
 =======
 
-Introduction to Geographic Data Formats
+story maps and geography
